@@ -1,0 +1,88 @@
+[33mcommit 6e2f67b928db04ddd42bee9adb2ff2c39623c73f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b599a8b 2ace377
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 19:33:16 2020 -0500
+
+    Conflicts Resolved!
+
+[33mcommit b599a8b348d86f520e2e3f8cd3d16a531b2805d3[m
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 19:25:27 2020 -0500
+
+    Look at me now!
+
+[33mcommit 2ace3774e5843dccf215d04364fc67445e2ea1b4[m
+Author: Jeremy <jeremy.grise@gmail.com>
+Date:   Mon Mar 9 19:24:45 2020 -0500
+
+    this might cause some problems
+
+[33mcommit d04639fed5fbbea9787b36dd7e4b5168628da40a[m
+Merge: 02f5056 c2b9245
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 19:17:38 2020 -0500
+
+    Merge branch 'master' of https://github.com/cstone1492/Studio-Trial
+
+[33mcommit c2b9245b0fc04ed3eb27f5c2c395eb08dd2e8bee[m
+Merge: d6814e2 d55080d
+Author: cstone1492 <61990275+cstone1492@users.noreply.github.com>
+Date:   Mon Mar 9 19:15:49 2020 -0500
+
+    Merge pull request #1 from cstone1492/open-mic
+    
+    Added style.css
+
+[33mcommit d55080da90a11a495606bcacaed00e173940ef44[m[33m ([m[1;31morigin/open-mic[m[33m)[m
+Author: Jeremy <jeremy.grise@gmail.com>
+Date:   Mon Mar 9 19:10:27 2020 -0500
+
+    Added style.css
+
+[33mcommit 02f5056eb2e5621dce69428e99d0c6d2e12ae925[m
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 19:08:45 2020 -0500
+
+    Elton John is a lyrical genius.
+
+[33mcommit d6814e2979c94369f4589902f99ba1cd6df7dad4[m
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 19:05:32 2020 -0500
+
+    Once more with feeling...
+
+[33mcommit b2f75499d3e189f78faf45bacf27d9a6cd0329da[m
+Author: Jeremy <jeremy.grise@gmail.com>
+Date:   Mon Mar 9 18:52:20 2020 -0500
+
+    moving to song quotes
+
+[33mcommit 8c9ca9bb728e5a87f3e8fcc808ce71b87b6bd8b9[m
+Author: Caroline Stone <docphilstone@gmail.com>
+Date:   Mon Mar 9 18:47:12 2020 -0500
+
+    I think I get this now.
+
+[33mcommit d9be28d0b3f88d2fb8d04842abbd9f1ff046eecf[m
+Author: Jeremy <jeremy.grise@gmail.com>
+Date:   Mon Mar 9 18:44:39 2020 -0500
+
+    added another meme line to the project
+
+[33mcommit f605ebf8d74f4d019411f0bc949e67242bd3c0fe[m
+Author: unknown <docphilstone@gmail.com>
+Date:   Mon Mar 9 18:40:43 2020 -0500
+
+    Please work.
+
+[33mcommit 72e4c3e88082abda3be14e74fde0123aba92ad1b[m
+Author: Jeremy <jeremy.grise@gmail.com>
+Date:   Mon Mar 9 18:23:38 2020 -0500
+
+    added second line to log
+
+[33mcommit 15228ad06d6a9a909931acec5f6afc9664616342[m
+Author: unknown <docphilstone@gmail.com>
+Date:   Mon Mar 9 18:10:32 2020 -0500
+
+    Started communication log.
